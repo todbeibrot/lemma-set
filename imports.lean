@@ -1,4 +1,3 @@
-import lemmagen
 import algebra.abs
 import algebra.add_torsor
 import algebra.algebra.basic
